@@ -1,4 +1,4 @@
-# 👋 Hi, Daniel Hofheinz
+# 👋 Hi, I'm Daniel Hofheinz
 
 **TL;DR:** I build agentic developer tooling that ships code — Python, TypeScript/React, any stack — with a soft spot for retro-computing aesthetics and rigorous software design.
 
@@ -27,4 +27,5 @@
 Retro arcade energy, modern DX. PRs welcome.
 
 Concordia res parvae crescunt, discordia maximae dilabuntur.
+
 小さく作って大きく動かす
