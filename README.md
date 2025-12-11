@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-banner-light.svg">
+  <img alt="Have AI — Will Travel" src="./github-banner-light.svg" width="100%">
+</picture>
+
 # 👋 Hi, I'm Daniel Hofheinz
 
 **Have AI — Will Travel**
@@ -28,3 +34,4 @@ Correctness over cleverness. Small composable modules. Observability from the st
 *Wire Daniel. San Francisco.*
 
 小さく作って大きく動かす
+
