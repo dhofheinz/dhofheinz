@@ -1,31 +1,30 @@
 # 👋 Hi, I'm Daniel Hofheinz
 
-**TL;DR:** I build agentic developer tooling that ships code — Python, TypeScript/React, any stack — with a soft spot for retro-computing aesthetics and rigorous software design.
+**Have AI — Will Travel**
 
-## What I do
-- **Agentic AI workflows:** sub-agent orchestration, IDE integration, GitHub Actions, SDK extensions (Claude Code tinkering galore).
-- **Systems & backend:** Python, FastAPI, async I/O, modularity, extensibility, maintainability, observability.
-- **Frontend glue:** React + TypeScript, Tailwind; pragmatic, testable UI.
-- **Security/fintech:** Stripe integrations, least-privilege design, and privacy/CCPA-aware patterns.
-- **Creative R&D:** retro UI/CRT vibes, pixel-art-inspired UX, and generative art prompts.
+---
 
-## Current focus
-- Designing **agentic dev pipelines** that keep context per task, run in parallel, and stay debuggable.
-- Hardening a modular **API manager** (caching, retries, backoff, metrics) as a drop-in component.
-- Evolving a **orchestrated workspace** with chat, per-branch preview sidecars, and fast feedback loops.
+I build agentic systems — orchestration infrastructure that turns model capabilities into reliable output. Parallel execution with dependency ordering, quality gates, checkpoint recovery, multi-provider failover. The patterns generalize whether the output is code, images, audio, or whatever the problem requires.
 
-## Principles
-- **Correctness > cleverness.**
-- **Small, composable modules.**
-- **Observability from day 1.**
-- **Iterate, measure, refine.**
+## What I Build
 
-## Stack & tools
-`Python` · `FastAPI` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Docker` · `Bash` · `More`
+- **Agentic Orchestration:** Multi-agent pipelines, sub-task decomposition, parallel execution with shared context
+- **AI Tooling & Integration:** Model orchestration, prompt infrastructure, SDK extensions, workflow automation
+- **Systems Infrastructure:** Python (FastAPI) for ML-adjacent work, TypeScript (Node/Fastify) for product systems. Async-first, observable, production-hardened.
+- **Interfaces:** React, TypeScript, Tailwind — when the problem needs one
 
-## Also me
-Retro arcade energy, modern DX. PRs welcome.
+## Current Work
 
-Concordia res parvae crescunt, discordia maximae dilabuntur.
+- Agentic pipelines with per-task context isolation and cross-agent coordination
+- Prompt infrastructure — expansion, composition, style systems at scale
+- Multi-modal workflows with fast feedback and observability built in
+
+## Philosophy
+
+Correctness over cleverness. Small composable modules. Observability from the start. The models do the generation; I architect the systems that make it useful.
+
+---
+
+*Wire Daniel. San Francisco.*
 
 小さく作って大きく動かす
