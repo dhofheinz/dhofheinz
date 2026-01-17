@@ -16,8 +16,8 @@ I build agentic systems — orchestration infrastructure that turns model capabi
 
 - **Agentic Orchestration:** Multi-agent pipelines, sub-task decomposition, parallel execution with shared context
 - **AI Tooling & Integration:** Model orchestration, prompt infrastructure, SDK extensions, workflow automation
-- **Systems Infrastructure:** Python (FastAPI) for ML-adjacent work, TypeScript (Node/Fastify) for product systems. Async-first, observable, production-hardened.
-- **Interfaces:** React, TypeScript, Tailwind — when the problem needs one
+- **Systems Infrastructure:** Python (FastAPI) for ML-adjacent work, TypeScript (Node/Fastify) for product systems, async-first, observable, production-hardened
+- **Interfaces:** React, TypeScript, Tailwind — whatever the project requires
 
 ## Current Work
 
@@ -27,11 +27,10 @@ I build agentic systems — orchestration infrastructure that turns model capabi
 
 ## Philosophy
 
-Correctness over cleverness. Small composable modules. Observability from the start. The models do the generation; I architect the systems that make it useful.
+The models do the generation; I architect the systems that make it useful.
 
 ---
 
-*Wire Daniel. San Francisco.*
-
 小さく作って大きく動かす
+
 
