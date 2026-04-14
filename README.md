@@ -10,20 +10,20 @@
 
 ---
 
-I build agentic systems — orchestration infrastructure that turns model capabilities into reliable output. Parallel execution with dependency ordering, quality gates, checkpoint recovery, multi-provider failover. The patterns generalize whether the output is code, images, audio, or whatever the problem requires.
+The hard problem in agentic systems isn't the model or the loop — both are commodities now. It's the layer that surrounds them: specifications precise enough to decompose into parallel work, context shaped per agent, evaluations that rewrite the next run, human judgment placed at the seams where taste is required. I work that layer — the patterns port across any domain where the output matters more than the mechanism.
 
 ## What I Build
 
-- **Agentic Orchestration:** Multi-agent pipelines, sub-task decomposition, parallel execution with shared context
-- **AI Tooling & Integration:** Model orchestration, prompt infrastructure, SDK extensions, workflow automation
-- **Systems Infrastructure:** Python for ML-adjacent work, TypeScript for product systems, async-first, observable, production-hardened
-- **Interfaces:** React, TypeScript, Tailwind — whatever the project requires
+- **Agentic Orchestration:** Specification-driven pipelines, dependency-aware decomposition, evaluation-gated progression, context engineered per agent
+- **AI Tooling & Integration:** Model orchestration, context infrastructure, SDK extensions, workflow automation
+- **Systems Infrastructure:** Polyglot by workload — Python, TypeScript, Rust, Go. Async-first, observable, production-hardened.
+- **Interfaces:** Stack follows the problem — React/Next, Svelte, native, whatever fits. With agentic workflows the language stopped being the bottleneck; design and system taste are the work.
 
 ## Current Work
 
-- Agentic pipelines with per-task context isolation and cross-agent coordination
-- Prompt infrastructure — expansion, composition, style systems at scale
-- Multi-modal workflows with fast feedback and observability built in
+- Specification pipelines that decompose into dependency-ordered tickets and run in parallel waves with cross-agent verification
+- Self-improving systems: outcomes drive pattern extraction, calibration updates, and context changes for the next run
+- Multi-modal generative workflows with human gates placed at the taste seams
 
 ## Philosophy
 
@@ -32,6 +32,3 @@ The models do the generation; I architect the systems that make it useful.
 ---
 
 小さく作って大きく動かす
-
-
-
