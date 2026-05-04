@@ -6,28 +6,23 @@
 
 # 👋 Hi, I'm Daniel Hofheinz
 
-**Have AI — Will Travel**
+**Have AI — Will Travel** · [danielhofheinz.com](https://danielhofheinz.com)
 
 ---
 
-The hard problem in agentic systems isn't the model or the loop — both are commodities now. It's the layer that surrounds them: specifications precise enough to decompose into parallel work, context shaped per agent, evaluations that rewrite the next run, human judgment placed at the seams where taste is required. I work that layer — the patterns port across any domain where the output matters more than the mechanism.
+The model and the loop are commodities. The interesting work is everything around them: orchestration across agents in parallel, governance enforced as code, supervision at the seams where judgment decides, observability and control end-to-end. That's the layer I build. The patterns port across any domain where the output matters more than the mechanism.
 
 ## What I Build
 
-- **Agentic Orchestration:** Specification-driven pipelines, dependency-aware decomposition, evaluation-gated progression, context engineered per agent
-- **AI Tooling & Integration:** Model orchestration, context infrastructure, SDK extensions, workflow automation
-- **Systems Infrastructure:** Polyglot by workload — Python, TypeScript, Rust, Go. Async-first, observable, production-hardened.
-- **Interfaces:** Stack follows the problem — React/Next, Svelte, native, whatever fits. With agentic workflows the language stopped being the bottleneck; design and system taste are the work.
+- **Multi-Agent Orchestration:** Specification-driven pipelines that decompose work into dependency-ordered waves and run in parallel with cross-agent verification. Control planes for fleets of agents, not single models in a loop.
+- **Governance & Supervision:** Evaluation gates between phases, policy enforcement at execution time, audit trails by default. What lets autonomous work happen inside processes that face real review.
+- **Context & Memory:** Per-agent context engineering, retrieval boundaries, durable memory shaped to task. The substrate that decides whether multi-agent coordination converges or thrashes.
+- **Systems Underneath:** Polyglot by workload (Python, TypeScript, Rust, Go). Async-first, observable, production-hardened. PII protection and encryption-at-rest where the work demands it.
+- **Interfaces:** Stack follows the problem (React/Next, Svelte, native, whatever fits). With agentic workflows the language stopped being the bottleneck; design and system taste are the work.
 
-## Current Work
+## How the Work Goes
 
-- Specification pipelines that decompose into dependency-ordered tickets and run in parallel waves with cross-agent verification
-- Self-improving systems: outcomes drive pattern extraction, calibration updates, and context changes for the next run
-- Multi-modal generative workflows with human gates placed at the taste seams
-
-## Philosophy
-
-The models do the generation; I architect the systems that make it useful.
+Specification before code; a system can't decompose what hasn't been written down. Evaluation as a first-class output, each pass calibrated by the last. Context engineered per agent, not shared as global state. Human judgment at the seams where taste decides; supervisor agents at the seams where policy decides. Logs as deliverables, not debugging exhaust. Nothing ships without a path to roll back. The result is autonomy that behaves like infrastructure: predictable enough to depend on, transparent enough to defend.
 
 ---
 
